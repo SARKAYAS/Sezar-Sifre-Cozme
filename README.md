@@ -13,10 +13,10 @@ Bu betiği kullanmak için, bilgisayarınızda Python'un kurulu olması gerekir.
 3. Betiği Python kullanarak şu şekilde çalıştırın:
 ```bash
 # Terminali açın
-cd yolunuza/gidin
+cd /home/kali/Desktop
 
 # Python betiğini çalıştırın
-python caesar_cipher.py
+python sezar.py
 ```
 
 ## Gereksinimler
