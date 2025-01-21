@@ -11,6 +11,13 @@ Bu betiği kullanmak için, bilgisayarınızda Python'un kurulu olması gerekir.
 1. Terminalinizi açın.
 2. Betiğin bulunduğu dizine gidin.
 3. Betiği Python kullanarak şu şekilde çalıştırın:
+```bash
+# Terminali açın
+cd yolunuza/gidin
+
+# Python betiğini çalıştırın
+python caesar_cipher.py
+```
 
 ## Gereksinimler
 - Python 3.x
